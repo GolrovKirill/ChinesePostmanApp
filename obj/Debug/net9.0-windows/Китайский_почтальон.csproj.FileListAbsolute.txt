@@ -1,0 +1,14 @@
+C:\Users\Think\Documents\Учёба\MyStudy\Китайский_почтальон\obj\Debug\net9.0-windows\Китайский_почтальон.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Think\Documents\Учёба\MyStudy\Китайский_почтальон\obj\Debug\net9.0-windows\Китайский_почтальон.AssemblyInfoInputs.cache
+C:\Users\Think\Documents\Учёба\MyStudy\Китайский_почтальон\obj\Debug\net9.0-windows\Китайский_почтальон.AssemblyInfo.cs
+C:\Users\Think\Documents\Учёба\MyStudy\Китайский_почтальон\obj\Debug\net9.0-windows\Китайский_почтальон.csproj.CoreCompileInputs.cache
+C:\Users\Think\Documents\Учёба\MyStudy\Китайский_почтальон\bin\Debug\net9.0-windows\Китайский_почтальон.exe
+C:\Users\Think\Documents\Учёба\MyStudy\Китайский_почтальон\bin\Debug\net9.0-windows\Китайский_почтальон.deps.json
+C:\Users\Think\Documents\Учёба\MyStudy\Китайский_почтальон\bin\Debug\net9.0-windows\Китайский_почтальон.runtimeconfig.json
+C:\Users\Think\Documents\Учёба\MyStudy\Китайский_почтальон\bin\Debug\net9.0-windows\Китайский_почтальон.dll
+C:\Users\Think\Documents\Учёба\MyStudy\Китайский_почтальон\bin\Debug\net9.0-windows\Китайский_почтальон.pdb
+C:\Users\Think\Documents\Учёба\MyStudy\Китайский_почтальон\obj\Debug\net9.0-windows\Китайский_почтальон.dll
+C:\Users\Think\Documents\Учёба\MyStudy\Китайский_почтальон\obj\Debug\net9.0-windows\refint\Китайский_почтальон.dll
+C:\Users\Think\Documents\Учёба\MyStudy\Китайский_почтальон\obj\Debug\net9.0-windows\Китайский_почтальон.pdb
+C:\Users\Think\Documents\Учёба\MyStudy\Китайский_почтальон\obj\Debug\net9.0-windows\Китайский_почтальон.genruntimeconfig.cache
+C:\Users\Think\Documents\Учёба\MyStudy\Китайский_почтальон\obj\Debug\net9.0-windows\ref\Китайский_почтальон.dll
